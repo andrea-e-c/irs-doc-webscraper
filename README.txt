@@ -18,7 +18,7 @@ To Run the Program:
 Make sure you are in the "pinwheel" directory.
 Open the file named "irsFormSearch.py".
 Run the file.
-You will be prompted in the command linee to enter your search list. Please input the names of the forms you would like to search for,
+You will be prompted in the command line to enter your search list. Please input the names of the forms you would like to search for,
 separated by a comma and then a space.
     * Ex: Form W-2, Form 1099-A
 The program will crawl the IRS Prior Year website and output a CSV of all the returned search data.
